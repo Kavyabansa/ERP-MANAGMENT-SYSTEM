@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Developed by [Vanshika Dahaliya]**
+**Developed by [Kavya Bansal]**
